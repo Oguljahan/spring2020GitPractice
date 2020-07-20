@@ -1,4 +1,9 @@
 Texas
 New York
 Florida
+<<<<<<< HEAD
 
+=======
+California
+Washington
+>>>>>>> be4dfc4a13b605e2de863e53c98962f5fbe29b8d
